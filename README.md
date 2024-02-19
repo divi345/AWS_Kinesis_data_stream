@@ -6,4 +6,4 @@ This project demonstrates the development of a real-time data streaming applicat
 
 Let’s talk streaming data. You want to read data and stream it into another program or different uses for gain. Your data suddenly comes to life and can be used to do amazing things. You could even launch a rocket using a text file if you wanted. Here, your imagination is your limit. Let’s dive into a step-by-step journey on how to stream data on AWS. Let’s dig in.
 
-Refer my medium blog for further project information.....
+Refer my medium blog for further project information:https://medium.com/@divyathawani8/real-time-data-streaming-project-using-aws-kinesis-datastream-and-lambda-functions-1ab0753af2a9
